@@ -17,7 +17,7 @@ const AppNav = () => {
                             <a className="nav-link" href="#">Features</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Pricing</a>
+                            <a className="nav-link" href="#">Tienda Online</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
